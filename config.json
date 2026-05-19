@@ -10,7 +10,7 @@
 	"port": 8080
 	},
 	"3": {
-	"url": "http://example4.com",
+	"url": "http://example3.com",
 	"method": "HEAD",
 	"port": 80
 	}
