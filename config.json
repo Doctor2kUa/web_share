@@ -1,17 +1,17 @@
 {
 	"1": {
-	"url": "http://example1.com",
+	"url": "127.0.0.1",
 	"method": "GET",
-	"port": 80
+	"port": 8000
 	},
 	"2": {
-	"url": "http://example2.com",
+	"url": "127.0.0.1",
 	"method": "POST",
 	"port": 8080
 	},
 	"3": {
-	"url": "http://example3.com",
+	"url": "127.0.0.1",
 	"method": "HEAD",
-	"port": 80
+	"port": 8000
 	}
 }
