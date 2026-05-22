@@ -1,8 +1,8 @@
 {
 	"1": {
 	"url": "http://example1.com",
-	"method": "GET",
-	"port": 80
+	"method": "POST",
+	"port": 8080
 	},
 	"2": {
 	"url": "http://example2.com",
@@ -11,7 +11,7 @@
 	},
 	"3": {
 	"url": "http://example3.com",
-	"method": "HEAD",
-	"port": 80
+	"method": "POST",
+	"port": 8080
 	}
 }
